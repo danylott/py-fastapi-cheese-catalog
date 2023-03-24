@@ -1,4 +1,4 @@
-# py-fastapi-cheese-catalog
+# FastAPI Cheese Catalog
 
 ## Description:
 Endpoints:
